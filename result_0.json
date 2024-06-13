@@ -1,1 +1,1 @@
-{"TaxRate":0,"InputPrices":[10,20,20],"TaxIncludedPrices":{"10.00":"10.00","20.00":"20.00"}}
+{"tax_rate":0,"input_prices":[10,20,20],"included_prices":{"10.00":"10.00","20.00":"20.00"}}
